@@ -1,4 +1,4 @@
-import insertion_sort as ins_sort
+import insertion_sort1 as ins_sort
 import sys
 
 numbers=[]
